@@ -1,7 +1,7 @@
 ## Interface: 11501
 ## Title: Scambuster-LoneWolfEUROPE
 ## Notes: Extension for Scambuster packaging Lone Wolf EU realm data
-## Author: Cei
+## Author: Cei, Jittery
 ## Version: 1.0.9
 ## DefaultState: enabled
 ## Dependencies: Scambuster
