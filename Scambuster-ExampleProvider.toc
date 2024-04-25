@@ -1,8 +1,8 @@
-## Interface: 30400
-## Title: Scambuster-ExampleProvider
-## Notes: Example Provider addon for Scambuster
-## Author: Swedge
-## Version: 1.0.0
+## Interface: 11501
+## Title: Scambuster-LoneWolfEU
+## Notes: Extension for Scambuster packaging Lone Wolf EU realm data
+## Author: Cei
+## Version: 1.0.9
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 
@@ -10,3 +10,5 @@ LibStub.lua
 settings.lua
 list.lua
 core.lua
+GrabGUID.lua
+WarningUnknownLinkType.lua
