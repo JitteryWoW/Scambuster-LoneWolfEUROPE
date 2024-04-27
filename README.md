@@ -14,7 +14,7 @@ We utilize the Scambuster addon framework to compile and distribute our list of 
 https://github.com/hypernormalisation/Scambuster
 ```
 ```python
-https://github.com/CeiCode/Scambuster-CrusaderStrikeEU
+xxxx
 ```
 6. Go to the **My Addons** tab and set both to **Auto Update**.
 
