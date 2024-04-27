@@ -1,4 +1,3 @@
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/JitteryWoW/Scambuster-LoneWolfEUROPLE/total?style=for-the-badge)
 
 <div align="left">
 
